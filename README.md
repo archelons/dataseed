@@ -1,6 +1,6 @@
 # DataSeed
 
-An open platform for data visualisation, exploration and analysis. For more information and a live demo see [dataseed.co.uk](http://dataseed.co.uk).
+An open platform for data visualisation, exploration and analysis. For more information and a live demo see [getdataseed.com](http://getdataseed.com).
 
 ## Front-End API
 
